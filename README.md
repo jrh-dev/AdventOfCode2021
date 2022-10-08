@@ -21,7 +21,7 @@ Advent of Code is a series of programming puzzles released in December each year
 | Day 13 | :star: :star: | :star: :star: | 
 | Day 14 | :star: :star: | :star: :star: | 
 | Day 15 | :star: :star: | :star: :star: | 
-| Day 16 | :star: :star: | :star: :star: | 
+| Day 16 | :star: :star: | :star: | 
 | Day 17 | :star: :star: | :star: :star: | 
 | Day 18 | | :star: :star: |
 | Day 19 | :star: :star: | 
